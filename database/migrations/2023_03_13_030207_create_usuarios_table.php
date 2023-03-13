@@ -20,7 +20,7 @@ return new class extends Migration
             $table->string('password');
             $table->string('id_curso');
             $table->integer('id_grupo');
-            $table->integer('role');
+            $table->integer('id_role');
             $table->timestamps();
         });
     }
