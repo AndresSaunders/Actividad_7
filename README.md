@@ -1,5 +1,5 @@
-## Actividad 7 Laravel
-# Actividad 7 y Tarea 6 
+# Actividad 7 Laravel
+## Actividad 7 y Tarea 6 
 
 ![image](https://user-images.githubusercontent.com/67623835/224602731-ca64438c-2061-4699-841b-4ccace4ff8eb.png)
 
