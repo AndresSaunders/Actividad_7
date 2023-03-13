@@ -16,6 +16,8 @@ return new class extends Migration
             $table->string('nombre');
             $table->string('apellido_p');
             $table->string('apellido_m');
+            $table->string('correo');
+            $table->string('password');
             $table->string('id_curso');
             $table->integer('id_grupo');
             $table->integer('role');
